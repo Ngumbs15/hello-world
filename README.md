@@ -3,4 +3,4 @@ The first, not the last
 
 Greetings!
 
-I am here to better my skills, learn programming and hopefully be better prepared to become a data scientist
+I want to be the very best, like no one ever was.
